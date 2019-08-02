@@ -26,18 +26,10 @@ def imageGrabtree():
     a= np.array(grayImage.getcolors())                                                     
     print(a.sum())
     return a.sum()
-
-
-    
-def main():
+           
+if __name__ == "__main__":
     restartGame()
     while True:
-        if(imageGrabtree()!=6325 ):
+        if(imageGrabTree()!=6325):
             pressSpace()   
-            time.sleep(0.1) 
-           
-           
-main()  
- 
- 
- 
+            time.sleep(0.1)
