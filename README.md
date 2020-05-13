@@ -1,9 +1,7 @@
 ## TRexBot
 This is an automated bot which can play your favourite offline TRex game! 
 
-This code uses libraries like pyautogui,PIL to grab your on screen data and manipulate to control your TRex!
-
-## To donate and support the open source project, tap on the sponsor button.
+This code uses libraries like pyautogui,PIL to grab your on screen data and manipulate to control your TRex.
 
 Instructions:
 1.You can play it by visiting an online website like http://www.trex-game.skipser.com/
